@@ -2,8 +2,8 @@
 =============================================================
 SuperEdit Class for AutoHotkey v2
 =============================================================
-Version: 1.0.0
-Date: 22/02/2026
+Version: 1.0.1
+Date: 23/02/2026
 =============================================================
 For detailed information, see the README.md file.
 Github repo: https://github.com/akcansoft/Super-Edit-Control
@@ -45,9 +45,9 @@ class SuperEdit {
 		"pt", "[a-zA-ZáâãàçéêíóôõúÁÂÃÀÇÉÊÍÓÔÕÚ]",
 		"it", "[a-zA-ZàèéìíîòóùúÀÈÉÌÍÎÒÓÙÚ]",
 		"pl", "[a-zA-ZąćęłńóśźżĄĆĘŁŃÓŚŹŻ]",
-		"ru", "[\p{IsCyrillic}]",
-		"ar", "[\p{IsArabic}]",
-		"el", "[\p{IsGreek}]"
+		"ru", "[\p{Cyrillic}]",
+		"ar", "[\p{Arabic}]",
+		"el", "[\p{Greek}]"
 	)
 
 	; Constructor
