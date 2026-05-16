@@ -298,9 +298,8 @@ e.Hwnd                      ; forwarded to ctrl.Hwnd
 ## Author
 
 **Mesut Akcan**  
-Email: [makcan@gmail.com](mailto:makcan@gmail.com)  
-Blog: [akcanSoft Blog](https://akcansoft.blogspot.com) | [Mesut Akcan Blog](https://mesutakcan.blogspot.com)\
-YouTube: [YouTube Channel](https://www.youtube.com/mesutakcan)
+[Mesut Akcan Blog](https://mesutakcan.blogspot.com)\
+[YouTube Channel](https://www.youtube.com/mesutakcan)
 
 ## Contributing
 
