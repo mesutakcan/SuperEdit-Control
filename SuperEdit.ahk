@@ -6,13 +6,13 @@ Version: 1.0.1
 Date: 23/02/2026
 =============================================================
 For detailed information, see the README.md file.
-Github repo: https://github.com/akcansoft/Super-Edit-Control
+Github repo: https://github.com/mesutakcan/Super-Edit-Control
 =============================================================
 Inspired by akcanSoft superText ActiveX Control
 https://github.com/akcansoft/superText-ActiveX-Control
 =============================================================
 Mesut Akcan
-github.com/akcansoft
+github.com/mesutakcan
 youtube.com/mesutakcan
 =============================================================
 */
