@@ -5,7 +5,7 @@ For detailed information, see the readme.md file.
 ===========================================================
 Mesut Akcan
 
-github.com/akcansoft
+github.com/mesutakcan
 youtube.com/mesutakcan
 ===========================================================
 22/02/2026
